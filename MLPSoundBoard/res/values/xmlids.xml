@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+<!--****************************** General Stuff ******************************-->    
+    <item type="id" name="mainWindow" />
+    <item type="id" name="pictureIcon" />
+    <item type="id" name="spinner1" />
+    <item type="id" name="VoiceArtist" />
+    <item type="id" name="phone_scroll_view" />
+    <item type="id" name="phoneMainWindow" />
+    <item type="id" name="pony_ListView" />
+    <item type="id" name="tablet_scroll_view" />
+    <item type="id" name="tmpMain" />
+    <item type="id" name="pictureIconTablet" />
+    <item type="id" name="VoiceArtistTablet" />
+    <item type="id" name="listview_containter" />
+    <item type="id" name="CharName" />
+    
+    
+<!--****************************** General Stuff ******************************-->
+    
+    
+</resources>

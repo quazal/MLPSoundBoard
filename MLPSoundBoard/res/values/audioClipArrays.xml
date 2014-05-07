@@ -1,0 +1,356 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+	<!-- 
+		Add audio clip arrays here.
+		
+		*****Search List*****
+    #001 - Vinyl
+    #002 - Octavia
+    #003 - Sweetie Bot
+    #004 - FiW Misc
+    #005 - Maud Pie
+    #006 - Flutershy
+    #007 - Pinkie Pie
+    #008 - Rainbow Dash
+    #009 - Rarity
+    #010 - Twilight Sparkle
+    #011 - Spike
+    #012 - Applejack
+    #013 - Discord
+    #014 - Princess Cadance
+    
+ 	-->
+
+<!--****************************** #001 Vinyl Scratch ******************************-->
+	<string-array name="Vinyl_Scratch_array">
+	    <item>Vinyl Scratch (Name),vinyl_name</item>
+		<item>Wacked,vinyl_wacked</item>
+		<item>Aww Yeah,vinyl_aww_yeah</item>
+		<item>Bass Cannon,vinyl_bass_cannon_01</item>
+		<item>Bass Cannon Alternate,vinyl_bass_cannon_02</item>
+		<item>Buh Buh Bass,vinyl_buh_bass</item>
+		<item>Is the music loud enough?,vinyl_cant_feel_hooves</item>
+		<item>Shakin me so bad,vinyl_eight_of_you</item>
+		<item>Best part of waking up,vinyl_foldgers</item>
+		<item>Forgot my line,vinyl_forgot_line</item>
+		<item>Good Day,vinyl_good_day</item>
+		<item>Good Morning Ponyville,vinyl_good_morning_ponyville</item>
+		<item>Just my Cannon,vinyl_just_my_cannon</item>
+		<item>Dishwasher with wubs,vinyl_make_diswasher_wubs</item>
+		<item>My Bass Cannon,vinyl_my_bass_cannon</item>
+		<item>My Bass Cannon!,vinyl_my_bass_cannon_loud</item>
+		<item>Isn"'"t My House,vinyl_not_my_house</item>
+		<item>Bit My Tongue,vinyl_ow_bit_tongue</item>
+		<item>Octavia Made Pancakes,vinyl_pancakes</item>
+		<item>What?,vinyl_what</item>
+		<item>What Up?,vinyl_what_up</item>
+		<item>Wub Wub Wub,vinyl_wub_wub</item>
+		<item>Wuba Dubdub MF,vinyl_wubadubdub_mf</item>
+		<item>Wuba Dubdub MF 02,vinyl_wubadubdub_mf_02</item>
+		<item>Wubs of Destruction,vinyl_wubs_destruction</item>
+		<item>Wubs of Destruction 02,vinyl_wubs_destruction_02</item>
+		<item>Yeah,vinyl_yeah</item>
+		<item>Yeah (Longer),vinyl_yeah_loud</item>
+		<item>Yeah Yeah Yeah,vinyl_yeah_yeah_yeah</item>
+		<item>Best Way To Wake Up,vinyl_best_way_to_wake_up</item>
+		<item>Killed The Wubs,vinyl_killed_wubz</item>
+		<item>Made You a Sandwich,vinyl_made_sandwich</item>
+		<item>Need Milk And Food,vinyl_need_more_milk</item>
+		<item>Not Bad,vinyl_not_bad</item>
+		<item>You Should Thank Me,vinyl_should_thank_me</item>
+		<item>Turned The Water Off,vinyl_turn_water_off</item>
+		<item>Two Thank You"'"s,vinyl_two_thank_yous</item>
+		<item>Laugh,vinyl_laugh</item>
+	</string-array>
+<!--****************************** Vinyl Scratch End ******************************-->    
+
+<!--****************************** #002 Octavia ******************************-->
+	<string-array name="Octavia_array">
+		<item>Thank You Vinyl,octavia_thank_you_vinyl</item>
+	</string-array>
+<!--****************************** Octavia End ******************************-->
+
+<!--****************************** #003 Sweetie Bot (FiW) ******************************-->    
+	<string-array name="Sweetie_Bot_array">
+	    <item>Sweetie Belle (Name),sweetie_bot_name</item>
+		<item>Input Name,sweetie_bot_input_name</item>
+		<item>Teach it to fear me,sweetie_bot_gets_upset</item>
+		<item>Incoming Mortar!,sweetie_bot_incoming_morter</item>
+		<item>Water makes me feel funny,sweetie_bot_water_feel_funny</item>
+		<item>Don\'t have a war face,sweetie_bot_dont_have_war_face</item>
+		<item>Sweetie Bots warface,sweetie_bot_war_face</item>
+		<item>Sweetie Bot slinky,sweetie_bot_slinky</item>
+		<item>Chances of success,sweetie_bot_chances_of_success</item>
+		<item>Spend Veterans Day,sweetie_bot_veterans_day</item>
+		<item>Fun levels at max,sweetie_bot_fun_levels</item>
+		<item>Max levels of fun,sweetie_bot_max_levels_fun</item>
+		<item>Set phasers to hug,sweetie_bot_set_phasers_to_hug</item>
+		<item>Arts and crafts located,sweetie_bot_arts_and_crafts</item>
+		<item>Assistance required,sweetie_bot_assistance_required</item>
+		<item>Look more baggage,sweetie_bot_baggage</item>
+		<item>Cutie mark acquisition program,sweetie_bot_cmap_01</item>
+		<item>Cry sequence,sweetie_bot_cry_sequence</item>
+		<item>Think about death,sweetie_bot_death</item>
+		<item>Decieved me,sweetie_bot_decieved</item>
+		<item>Does not matter,sweetie_bot_doesnt_matter</item>
+		<item>New sis AJ,sweetie_bot_aj_new_sister</item>
+		<item>Drawing,sweetie_bot_drawing</item>
+		<item>Error,sweetie_bot_error</item>
+		<item>Error has occured,sweetie_bot_error_occured</item>
+		<item>Fashion police,sweetie_bot_fabolous_batons</item>
+		<item>Fabolous Dress,sweetie_bot_fabolous_dress</item>
+		<item>Fabolous item located (Long),sweetie_bot_fabolous_item_located</item>
+		<item>Fabolous item located (Short),sweetie_bot_fabolous_item_located_short</item>
+		<item>House had a fence,sweetie_bot_fence</item>
+		<item>Form a club,sweetie_bot_form_club</item>
+		<item>Gasp,sweetie_bot_gasp</item>
+		<item>Happy cry sequence,sweetie_bot_happy_cry</item>
+		<item>Heart drive,sweetie_bot_heart_drive</item>
+		<item>Hooray!,sweetie_bot_hooray</item>
+		<item>Insufficient beauty,sweetie_bot_insufficient_beauty</item>
+		<item>Lack of bloodlust,sweetie_bot_lack_bloodlust</item>
+		<item>Life is fleeting,sweetie_bot_life_fleeting</item>
+		<item>Lives ones death,sweetie_bot_lives_death</item>
+		<item>I love you Rarity,sweetie_bot_love_rarity</item>
+		<item>Rarity I love you,sweetie_bot_rarity_i_love_you</item>
+		<item>I Love you 01,sweetie_bot_love_you</item>
+		<item>I love you 02,sweetie_bot_love_you_02</item>
+		<item>I love you (Broken),sweetie_bot_love_you_broken</item>
+		<item>Swallowed microtape,sweetie_bot_microtape</item>
+		<item>Laugh at misery,sweetie_bot_misery</item>
+		<item>Nothing to fear,sweetie_bot_nothing_to_fear</item>
+		<item>Acquire objects of fun,sweetie_bot_objects_of_fun</item>
+		<item>Primary function failure,sweetie_bot_primary_function</item>
+		<item>Life is worth protecting?,sweetie_bot_protect_life</item>
+		<item>Rar-i-bot,sweetie_bot_raribot</item>
+		<item>Rarity,sweetie_bot_rarity</item>
+		<item>Rarity loves to jump,sweetie_bot_rarity_loves_to_jump</item>
+		<item>Run away,sweetie_bot_run_away</item>
+		<item>Scanning,sweetie_bot_scanning</item>
+		<item>Scootalo is correct,sweetie_bot_scoot_correct</item>
+		<item>Always screwing up,sweetie_bot_screwing_up</item>
+		<item>Seen these in my dreams,sweetie_bot_sheep</item>
+		<item>Sweetie Bot singing 01,sweetie_bot_singing_01</item>
+		<item>Sweetie Bot singing 02,sweetie_bot_singing_02</item>
+		<item>Something wrong with me,sweetie_bot_something_wrong</item>
+		<item>Success,sweetie_bot_success</item>
+		<item>Unstylish Jelly,sweetie_bot_unstylish_jelly</item>
+		<item>Whats up with that?,sweetie_bot_whats_up_with_that</item>
+		<item>Are you a robot?,sweetie_bot_you_are_a_robot</item>
+		<item>Babs Seed Seeds Bad,sweetie_bot_babs_seed</item>
+		<item>Cynical Media,sweetie_bot_cynical_media</item>
+		<item>Really The Moral?,sweetie_bot_really_the_moral</item>
+		<item>Visual Delights,sweetie_bot_visual_delights</item>
+		<item>Why Do I Have To Be In The Water?,sweetie_bot_why_have_be_in_water</item>
+	</string-array>
+ <!--****************************** Sweetie Bot (FiW) End******************************-->   
+       
+<!--****************************** #005 Maud Pie ******************************-->
+	<string-array name="Maud_Pie_array">
+		<item>They"'"re All About Rocks,maud_pie_all_about_rocks</item>
+		<item>Camouflage Game,maud_pie_boulder_camo</item>
+		<item>I Don"'"t Like Candy,maud_pie_dont_like_candy</item>
+		<item>Don"'"t Show Enthusiasm,maud_pie_enthuasium</item>
+		<item>Wardrobe Expression,maud_pie_expression_via_wardrobe</item>
+		<item>Found Em,maud_pie_found_em</item>
+		<item>Go Back To The Rock Farm,maud_pie_go_back_to_rock_farm</item>
+		<item>Hiding In My Pocket,maud_pie_hiding_in_pocket</item>
+		<item>Hmm Sedimentary,maud_pie_hmm_sedementary</item>
+		<item>He"'"s In My Pocket,maud_pie_in_my_pocket</item>
+		<item>It"'"s A Dress,maud_pie_its_a_dress</item>
+		<item>It"'"s A Rock,maud_pie_its_a_rock</item>
+		<item>It"'"s Crunchy,maud_pie_its_crunchy</item>
+		<item>It"'"s Like Hide n Seek,maud_pie_its_like_hidenseek</item>
+		<item>I Threw It,maud_pie_i_threw_it</item>
+		<item>Looking At The Rock,maud_pie_looking_at_rock</item>
+		<item>Love Pinkie Pie,maud_pie_love_pinkie_pie</item>
+		<item>Mmm Hmm,maud_pie_mmm_hmm</item>
+		<item>Read My Own Poetry,maud_pie_my_own_poetry</item>
+		<item>Next One Is About Rocks,maud_pie_next_one_about_rocks</item>
+		<item>Nice To Meet You,maud_pie_nice_to_meet_you</item>
+		<item>I"'"m Not Into Winning,maud_pie_not_into_winning</item>
+		<item>Pets Name,maud_pie_pets_name</item>
+		<item>What Were You Thinking?,maud_pie_pinkie_what_were_you_thinking</item>
+		<item>Rock Poem 1,maud_pie_rock_poem_1</item>
+		<item>Rock Poem 2,maud_pie_rock_poem_2</item>
+		<item>Rock Research Trip,maud_pie_rock_research_trip</item>
+		<item>Spend Time With You,maud_pie_spend_time</item>
+		<item>Sure,maud_pie_sure</item>
+		<item>It Tastes Like Apples,maud_pie_tastes_like_apples</item>
+		<item>This Is A Sedimentary Rock,maud_pie_this_is_a_sedementary_rock</item>
+		<item>What Do You Mean?,maud_pie_what_do_you_mean</item>
+		<item>Your Friends Become Mine,maud_pie_your_friends_become_mine</item>
+	</string-array>
+<!--****************************** Maud Pie End ******************************-->
+  
+<!--****************************** #004 FiW Misc ******************************-->
+	<string-array name="FiW_Misc_array">
+		<item>Snowblind,snowblind_makes_a_star</item>
+		<item>AJ Sexy Train,aj_fiw_sexy_train</item>
+		<item>Where Do Trains Come From,applebloom_fiw_where_trains_come_from</item>
+	</string-array>
+<!--****************************** FiW Misc End ******************************-->    
+    
+<!--****************************** #006 Fluttershy ******************************-->
+	<string-array name="Fluttershy_array">
+		<item>Boulder Seems Sweet,fluttershy_boulder_sweet</item>
+		<item>The Best News Ever,fluttershy_the_best_news_ever</item>
+		<item>The Breezies,fluttershy_the_breezies</item>
+	</string-array>
+<!--****************************** Fluttershy End ******************************-->
+ 
+<!--****************************** #007 Pinkie Pie ******************************-->
+	<string-array name="Pinkie_Pie_array">
+		<item>Best Friends Necklaces!,pinkie_pie_best_friends_necklaces</item>
+		<item>But What?,pinkie_pie_but_what</item>
+		<item>Can"'"t Tell Ya That Silly,pinkie_pie_cant_tell_ya_that_silly</item>
+		<item>Choices Choices Choices,pinkie_pie_choices</item>
+		<item>Is This It?,pinkie_pie_is_this_it</item>
+		<item>It"'"s A Secret,pinkie_pie_its_a_secret</item>
+		<item>It"'"s Rocks,pinkie_pie_its_rocks</item>
+		<item>I Gotta Get Outta Here!,pinkie_pie_i_gotta_get_outta_here</item>
+		<item>We Never Made Our Necklaces,pinkie_pie_never_got_to_make_necklaces</item>
+		<item>Watch This!,pinkie_pie_watch_this</item>
+		<item>What Are You Doing Here?,pinkie_pie_what_are_you_doing_here</item>
+		<item>Born on a Tuesday,pinkie_pie_born_on_a_tuesday</item>
+		<item>Cuddle and Stories,pinkie_pie_cuddle_and_stories</item>
+		<item>Can This Day Get Any Better?,pinkie_pie_day_get_any_better</item>
+		<item>Distracted,pinkie_pie_distracted</item>
+		<item>Doesn"'"t Look Like a Duck,pinkie_pie_doesnt_look_like_a_duck</item>
+		<item>Fluttershy,pinkie_pie_fluttershy</item>
+		<item>Throw Away Good Balloons,pinkie_pie_good_balloons</item>
+		<item>Lalalala,pinkie_pie_lalalala</item>
+		<item>Never Forget You,pinkie_pie_never_forget_you</item>
+		<item>Ooo Something Floaty,pinkie_pie_something_floaty</item>
+		<item>Used Patio Furniture,pinkie_pie_used_patio_stuff</item>
+		<item>Why Wouldn"'"t It?,pinkie_pie_why_wouldnt_it</item>
+	</string-array>
+<!--****************************** Pinkie Pie End ******************************-->
+
+<!--****************************** #008 Rainbow Dash ******************************-->
+	<string-array name="Rainbow_Dash_array">
+		<item>Ask Me How I Know That,rainbow_dash_ask_me_how</item>
+		<item>Awesome?,rainbow_dash_awesome_questionmark</item>
+		<item>He"'"s A Rock!,rainbow_dash_hes_a_rock</item>
+		<item>Huh?,rainbow_dash_huh_squeek</item>
+		<item>Igneous,rainbow_dash_ignious</item>
+		<item>Its A Kind Of Rock,rainbow_dash_kind_of_rock</item>
+		<item>Like I Said,rainbow_dash_like_i_said</item>
+		<item>Like I Said Huh?,rainbow_dash_like_i_said_huh</item>
+		<item>My Teeth Hurt,rainbow_dash_my_teeth_hurt</item>
+		<item>Oh Come On,rainbow_dash_oh_come_on</item>
+		<item>Riddle Wrapped In A Mystery,rainbow_dash_riddle_ignious</item>
+		<item>The Whole Time,rainbow_dash_the_whole_time</item>
+		<item>We Noticed,rainbow_dash_uhh_we_noticed</item>
+		<item>What How What,rainbow_dash_what_how_what</item>
+		<item>Big Ball of Lame,rainbow_dash_big_ball_of_lame</item>
+		<item>Blarf,rainbow_dash_blarf</item>
+		<item>Chill,rainbow_dash_chill</item>
+		<item>Color of Trouble,rainbow_dash_color_of_trouble</item>
+		<item>Fluttershy"'"s Out,rainbow_dash_fluttershys_out</item>
+		<item>Good Thinkin,rainbow_dash_good_thinkin</item>
+		<item>Lame,rainbow_dash_lame</item>
+		<item>Not It!,rainbow_dash_not_it</item>
+		<item>Oh No!,rainbow_dash_oh_no</item>
+		<item>Something in My Throat,rainbow_dash_something_in_my_throat</item>
+		<item>Stay Home in Bed,rainbow_dash_stay_home_in_bed</item>
+		<item>What is That?,rainbow_dash_what_is_that</item>
+	</string-array>
+<!--****************************** Rainbow Dash End ******************************-->
+
+<!--****************************** #009 Rarity ******************************-->
+	<string-array name="Rarity_array">
+		<item>Enigma,rarity_enigma</item>
+		<item>I Give Up,rarity_i_give_up</item>
+		<item>Maud Broke Rarity,rarity_you_broke_rarity</item>
+		<item>Cerulean,rarity_cerulean</item>
+		<item>Don"'"t Worry About a Thing,rarity_dont_worry_about_a_thing</item>
+		<item>Duck,rarity_duck</item>
+		<item>Got What You Deserved,rarity_got_what_you_deserved</item>
+		<item>No Trouble Saying,rarity_no_trouble_saying</item>
+		<item>Sounds Delightful,rarity_sounds_delightful</item>
+	</string-array>
+<!--****************************** Rarity End ******************************-->
+
+<!--****************************** #010 Twilight Sparkle ******************************-->
+	<string-array name="Twilight_Sparkle_array">
+		<item>Anything Else?,twilight_sparkle_anything_else</item>
+		<item>Best News Ever,twilight_sparkle_best_news_ever</item>
+		<item>Boy Have I,twilight_sparkle_boy_have_i</item>
+		<item>Coming Cadance,twilight_sparkle_coming_cadance</item>
+		<item>Discord,twilight_sparkle_discord</item>
+		<item>Don"'"t Know Where You &#8230;,twilight_sparkle_dont_know_where_you_li</item>
+		<item>Exactly,twilight_sparkle_exactly</item>
+		<item>Hang on a Second,twilight_sparkle_hang_on_one_second</item>
+		<item>Have a Great Time,twilight_sparkle_have_a_great_time</item>
+		<item>Just Quiet Time,twilight_sparkle_just_quiet_time</item>
+		<item>No,twilight_sparkle_no</item>
+		<item>Please be a Yes,twilight_sparkle_please_be_a_yes</item>
+		<item>Ridiculous,twilight_sparkle_ridiculous</item>
+		<item>She Can Make It,twilight_sparkle_she_can_make_it</item>
+		<item>Spoiler Alert,twilight_sparkle_spoiler_alert</item>
+		<item>Thats Fantastic,twilight_sparkle_thats_fantastic</item>
+		<item>Traveling Museum,twilight_sparkle_traveling_museum</item>
+		<item>We"'"re Listening,twilight_sparkle_were_listening</item>
+		<item>What Are You Doing Here?,twilight_sparkle_what_are_you_doing_here</item>
+		<item>Worry Free,twilight_sparkle_worry_free</item>
+		<item>Wow Fluttershy,twilight_sparkle_wow_fluttershy</item>
+		<item>Excited Yes,twilight_sparkle_yes_excited</item>
+		<item>You Were Faking?!,twilight_sparkle_you_were_faking</item>
+		<item>Your Highness,twilight_sparkle_your_highness</item>
+	</string-array>
+<!--****************************** Twilight Sparkle End ******************************-->  
+
+<!--****************************** #011 Spike ******************************-->
+	<string-array name="Spike_array">
+		<item>Mails Here,spike_mails_here</item>
+	</string-array>
+<!--****************************** Spike End ******************************-->  
+
+<!--****************************** #012 Applejack ******************************-->
+	<string-array name="Applejack_array">
+		<item>Go On,applejack_go_on</item>
+		<item>Maybe,applejack_maybe</item>
+		<item>What Are You Nervous About?,applejack_nervous_about</item>
+		<item>Are you sick?,applejack_sick_or_somethin</item>
+		<item>Up to Something,applejack_up_to_somethin</item>
+		<item>What Are You Doing Here?,applejack_what_are_you_doing_here</item>
+		<item>Got What You Deserved,applekack_got_what_you_deserved</item>
+	</string-array>
+<!--****************************** Applejack End ******************************--> 
+
+<!--****************************** #013 Discord ******************************-->
+	<string-array name="Discord_array">
+		<item>Angry Eyes,discord_angry_eyes</item>
+		<item>Fainting Couch,discord_fainting_couch</item>
+		<item>Glass of Water,discord_glass_of_water</item>
+		<item>Bad Hygine,discord_hygine</item>
+		<item>Laugh,discord_laugh</item>
+		<item>Let the Healing Begin,discord_let_the_healing_begin</item>
+		<item>Not a What,discord_not_a_what</item>
+		<item>She"'"s a Sweetheart,discord_shes_a_sweetheart</item>
+		<item>Slipped My Mind,discord_slipped_my_mind</item>
+		<item>Sneeze,discord_sneeze</item>
+		<item>Thinking Tree,discord_thinking_tree</item>
+	</string-array>
+<!--****************************** Discord End ******************************-->
+
+<!--****************************** #014 Princess Cadance ******************************-->
+	<string-array name="Princess_Cadance_array">
+		<item>Magic Health Bubble,cadance_magic_health_bubble</item>
+		<item>Sisters in Law,cadance_sisters_in_law</item>
+		<item>Teasing,cadance_teasing</item>
+		<item>Twilight,cadance_twilight</item>
+		<item>What Did You Need?,cadance_what_did_you_need</item>
+		<item>Your Highness,cadance_your_highness</item>
+	</string-array>
+<!--****************************** Princess Cadance End ******************************-->
+
+
+
+
+
+
+
+</resources>

@@ -1,0 +1,47 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/options"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+	    android:title="@string/about"
+	     />
+    
+    <item
+        android:id="@+id/sortOrderItem"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+	    android:title="@string/sortorder">
+	    <menu>
+	        <item
+	        android:id="@+id/defaultSortItem"
+	        android:orderInCategory="100"
+	        android:showAsAction="never"
+	       
+		    android:title="Default"/>
+	        
+	        <item
+	        android:id="@+id/aToZSortItem"
+	        android:orderInCategory="100"
+	        android:showAsAction="never"
+	        
+		    android:title="A to Z"/>
+	        
+	        <item
+	        android:id="@+id/zToASortItem"
+	        android:orderInCategory="100"
+	        android:showAsAction="never"
+	       
+		    android:title="Z to A"/>
+        </menu>
+        </item>
+        
+    <item
+        android:id="@+id/ResetPreferences"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+	    android:title="@string/resetPrefs"
+	    />
+    
+
+</menu>

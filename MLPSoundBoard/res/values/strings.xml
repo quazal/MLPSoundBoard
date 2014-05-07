@@ -1,0 +1,430 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--  
+    To add clips:
+    	add clip with description to appropriate array.
+    	If adding a new array:
+    		Add Character to char list.
+    		Add array and clips.
+    		Add numbering to quickly find array.
+    		Add imagelist array for new entry.
+    		Add background colors in the correct places.
+    		Add dark text designation if needed.
+    		Add ID
+    		Add VA info.
+    	After clips are added, update expansion_main_code and filesize_main.
+    	Update revision and version info in manifest.
+    	
+    	Update info on application page to reflect new clip/character counts.
+    	Update whats new to include necessary info.
+    	
+    
+    -->
+   
+    
+<!--****************************** General Stuff ******************************-->    
+    <string name="app_name">MLP Sound Board</string>
+    <string name="options">Options ***NYI***</string>
+    <string name="sortorder">Sort Order</string>
+    <string name="resetPrefs">Reset to Defaults</string>
+    <string name="about">Help &amp; About</string>
+    <string name="download_pause">Pause download</string>
+	<string name="download_resume">Resume download</string>
+	
+	<string name="expansion_main_code">8</string>
+	<string name="expansion_patch_code">0</string>
+	<string name="filesize_main">11158147</string>
+	<string name="filesize_patch">0</string>
+    
+    <string name="about_info">
+        Press Back to leave this menu.\n
+        \n
+        \n
+        <b><u>About this soundboard:</u></b>\n
+        \n
+        <u>Hints</u>\n
+        Run on a tablet to get full user experience.\n
+        Tap clip text to play clip.\n
+        Tap icon to play random clip.\n
+        Longpress icon to change it.\n
+        Longpress clip for clip options.\n
+        \n
+        <u>Disclaimers</u>\n
+        All clips are property of their respective owners.\n
+        My Little Pony and related materials are property of Hasbro.\n
+        \n
+        This app is not intended for comercial use.\n
+        I made this app for myself but felt like sharing with folks who would enjoy it just as much as I do.\n
+        \n
+        <u>Contact</u>\n
+        Any comments, suggestions, feature requests, clip requests, errors/bugs reports, etc please email me at:\n
+        <i>Quazal1007@gmail.com</i>\n
+        \n
+        I also am open to accepting donations but they are not required.  Email me first before donating anything.\n
+        Developed by: Stephen T. (Quazal)\n
+    	Testers: SnowBolt\n
+        \n
+    </string>
+    
+<!--****************************** General Stuff ******************************-->
+    
+    
+    
+<!--****************************** ID's ******************************-->
+
+	<!--Id's are currently only used in labeling the linearlayouts-->
+	
+	<item type="id" name="Twilight_Sparkle" />
+	<item type="id" name="Fluttershy" />
+	<item type="id" name="Rainbow_Dash" />
+	<item type="id" name="Pinkie_Pie" />
+	<item type="id" name="Rarity" />
+	<item type="id" name="AppleJack" />
+	<item type="id" name="Sweetie_Bot" />
+	<item type="id" name="Vinyl_Scratch" />
+	<item type="id" name="Princess_Molestia_Jen" />
+	<item type="id" name="Maud_Pie" />
+	<item type="id" name="Octavia" />
+	<item type="id" name="Favorites" />
+	<item type="id" name="Discord" />
+	<item type="id" name="Spike" />
+	<item type="id" name="Princess_Cadance" />
+	
+<!--****************************** ID's ******************************-->
+	
+	
+<!--****************************** Voice Actors's ******************************-->
+
+	<item type="string" name="Vinyl_Scratch_VA">Jessi Nowack\n(Nowacking)</item>
+	<item type="string" name="Maud_Pie_VA">Ingrid Nilson\n(Official)</item>
+	<item type="string" name="Octavia_VA">Jen McGregor\n(MEMJ0123)</item>
+	<item type="string" name="Twilight_Sparkle_VA">Tara Strong\n(Official)</item>
+	<item type="string" name="Fluttershy_VA">Andrea Libman\n(Official)</item>
+	<item type="string" name="Pinkie_Pie_VA">Andrea Libman\n(Official)</item>
+	<item type="string" name="Rainbow_Dash_VA">Ashleigh Ball\n(Official)</item>
+	<item type="string" name="Applejack_VA">Ashleigh Ball\n(Official)</item>
+	<item type="string" name="Rarity_VA">Tabitha St. Germain\n(Official)</item>
+	<item type="string" name="Discord_VA">John de Lancie\n(Official)</item>
+	<item type="string" name="Princess_Cadance_VA">Britt McKillip\n(Official)</item>
+	<item type="string" name="Spike_VA">Cathy Weseluck\n(Official)</item>
+	<item type="string" name="Sweetie_Bot_VA"> Sherclop Pones\n(Fan Works)</item>
+	<item type="string" name="FiW_Misc_VA"> Sherclop Pones\n(Fan Works)</item>
+	<item type="string" name="Favorites_VA">Various\n(Various)</item>
+	
+<!--****************************** Voice Actors's ******************************-->
+	
+	
+	
+<!--****************************** Background Colors ******************************-->
+	
+	<!--
+		Coat1 = body fill color (usually lighter)
+		Coat2 = body fill color shadow (usually darker)
+		Coat3 = body outline color (usually darker)
+		ManeX = Mane colors, can be as many as needed (1-x)
+		Mane color is used for tablets only(left side background)
+		If coat color has only 1 color gradients will not be used.
+		
+	-->
+	
+	<!--
+		Missing colors:
+		Cadance - Needs dark coat fill and outline.
+		Maud Pie -Needs coat shadow, outline, and mane colors.
+		
+	-->
+	
+	
+	<color name="DefaultColor">#FFE1EFF2</color>
+	<color name="AboutPageColor">#FF62D0F5</color>
+	<color name="ltgray">#FFCCCCCC</color>
+	
+	<!--***** Coat Colors *****-->
+	<color name="Luna_Coat1">#80656CB9</color>
+	<color name="Vinyl_Scratch_Coat1">#FFE2E9E0</color>
+	<color name="Vinyl_Scratch_Coat2">#FFFEFDE7</color>
+	<color name="Vinyl_Scratch_Coat3">#FFC0A3B2</color>
+	<color name="Octavia_Coat1">#FFBAB8B0</color>
+	<color name="Octavia_Coat2">#FFA5A2B0</color>
+	<color name="Octavia_Coat3">#FF676154</color>
+	<color name="Maud_Pie_Coat1">#FFAAABB2</color>
+		<!--Maud Pies coat colors-->
+	<color name="Fluttershy_Coat1">#FFFDF6AF</color>
+	<color name="Fluttershy_Coat2">#FFFEE78F</color>
+	<color name="Fluttershy_Coat3">#FFEAD463</color>
+	<color name="Pinkie_Pie_Coat1">#FFF3B6CF</color>
+	<color name="Pinkie_Pie_Coat2">#FFEC9DC4</color>
+	<color name="Pinkie_Pie_Coat3">#FFEB81B4</color>
+	<color name="Rainbow_Dash_Coat1">#FF9EDBF9</color>	
+	<color name="Rainbow_Dash_Coat2">#FF88C4EB</color>
+	<color name="Rainbow_Dash_Coat3">#FF77B0E0</color>
+	<color name="Rarity_Coat1">#FFEBEFF1</color>
+	<color name="Rarity_Coat2">#FFDEE3E4</color>
+	<color name="Rarity_Coat3">#FFBEC2C3</color>
+	<color name="Sweetie_Bot_Coat1">#FFEFEDEE</color>
+	<color name="Sweetie_Bot_Coat2">#FFE2DEE3</color>
+	<color name="Sweetie_Bot_Coat3">#FFCFC8D1</color>
+	<color name="Sweetie_Belle_Coat1">#FFEFEDEE</color>
+	<color name="Sweetie_Belle_Coat2">#FFE2DEE3</color>
+	<color name="Sweetie_Belle_Coat3">#FFCFC8D1</color>
+	<color name="Twilight_Sparkle_Coat1">#FFD19FE3</color>
+	<color name="Twilight_Sparkle_Coat2">#FFB689C8</color>
+	<color name="Twilight_Sparkle_Coat3">#FFA76BC2</color>	
+	<color name="Applejack_Coat1">#FFFFC261</color>
+	<color name="Applejack_Coat2">#FFEFB05D</color>
+	<color name="Applejack_Coat3">#FFF26F31</color>
+	<color name="Scootaloo_Coat1">#FFFBBA64</color>
+	<color name="Scootaloo_Coat2">#FFF2AB56</color>
+	<color name="Scootaloo_Coat3">#FFF37033</color>	
+	<color name="Apple_Bloom_Coat1">#FFF4F49B</color>
+	<color name="Apple_Bloom_Coat2">#FFE7E793</color>
+	<color name="Apple_Bloom_Coat3">#FFDAC572</color>
+	<color name="Spike_Coat1">#FFC590C9</color>
+	<color name="Spike_Coat2">#FF9A5DA2</color>
+	<color name="Princess_Cadance_Coat1">#FFEBAFD1</color>
+		<!--Cadance coat colors-->
+	<color name="Discord_Coat1">#FFC2BEA2</color>
+	<color name="Discord_Coat2">#FF683E3D</color>
+	<color name="Discord_Coat3">#FFC2162E</color>
+	
+	
+	<!--***** Mane Colors *****-->
+	<color name="Vinyl_Scratch_Mane1">#FF18E7E7</color>
+	<color name="Vinyl_Scratch_Mane2">#FF3366CC</color>
+	<color name="Octavia_Mane1">#CB000000</color>
+	<color name="Octavia_Mane2">#FF000000</color>
+		<!--Maud Pies Mane Colors Here-->
+	<color name="Fluttershy_Mane1">#FFF3B6CF</color>
+	<color name="Fluttershy_Mane2">#FFEB81B4</color>
+	<color name="Pinkie_Pie_Mane1">#FFED458B</color>
+	<color name="Pinkie_Pie_Mane2">#FFBE1D77</color>
+	<color name="Rainbow_Dash_Mane1">#CB672F89</color>
+	<color name="Rainbow_Dash_Mane2">#CB1E96D3</color>
+	<color name="Rainbow_Dash_Mane3">#CB62BC4D</color>
+	<color name="Rainbow_Dash_Mane4">#CBFDF6AF</color>
+	<color name="Rainbow_Dash_Mane5">#CBF37033</color>
+	<color name="Rainbow_Dash_Mane6">#CBEE4144</color>
+	<color name="Rarity_Mane1">#FF83509F</color>
+	<color name="Rarity_Mane2">#FF5E4FA2</color>
+	<color name="Rarity_Mane3">#FF4B2568</color>
+	<color name="Rarity_Mane4">#FF49176D</color>
+	<color name="Sweetie_Bot_Mane1">#FFF6B8D2</color>
+	<color name="Sweetie_Bot_Mane2">#FFB28DC0</color>
+	<color name="Sweetie_Belle_Mane1">#FFF6B8D2</color>
+	<color name="Sweetie_Belle_Mane2">#FFB28DC0</color>
+	<color name="Twilight_Sparkle_Mane1">#FF263773</color>
+	<color name="Twilight_Sparkle_Mane2">#FF662D8A</color>
+	<color name="Twilight_Sparkle_Mane3">#FFED438A</color>
+	<color name="Twilight_Sparkle_Mane4">#FF131F46</color>
+	<color name="Applejack_Mane1">#FFFDF6AF</color>
+	<color name="Applejack_Mane2">#FFEAD463</color>
+	<color name="Scootaloo_Mane1">#FFBF5D95</color>
+	<color name="Scootaloo_Mane2">#FFBF1F79</color>
+	<color name="Apple_Bloom_Mane1">#FFF8415F</color>
+	<color name="Apple_Bloom_Mane2">#FFC52451</color>
+	<color name="Spike_Mane1">#FF50C355</color>
+	<color name="Spike_Mane2">#FF309931</color>
+	<color name="Princess_Cadance_Mane1">#FF692F9A</color>
+	<color name="Princess_Cadance_Mane2">#FFC53282</color>
+	<color name="Princess_Cadance_Mane3">#FFFFF1B4</color>
+	<color name="Discord_Mane1">#FF242424</color>
+	<color name="Discord_Mane2">#FFFFFFFF</color>
+	
+	
+<!--****************************** Background Colors ******************************-->
+
+
+<!--****************************** Dark Color Lists ******************************-->
+
+	<string-array name="dark_coat">
+        <item>Octavia</item>
+        <item>Maud_Pie</item>
+        <item>Discord</item>
+    </string-array>
+    
+	<string-array name="dark_mane">
+        <item>Octavia</item>
+        <item>Twilight_Sparkle</item>
+        <item>Rarity</item>
+        <item>Discord</item>
+    </string-array>
+
+<!--****************************** Dark Color Lists ******************************-->
+ 
+ 
+<!--****************************** Spinner Dropdown Array ******************************--> 
+    <string-array name="pony_arrays">
+        <item>Favorites</item>
+        <item>Twilight Sparkle</item>
+        <item>Fluttershy</item>
+        <item>Rainbow Dash</item>
+        <item>Rarity</item>
+        <item>Applejack</item>
+        <item>Pinkie Pie</item>
+        <item>Maud Pie</item>
+        <item>Octavia</item>
+        <item>Vinyl Scratch</item>
+        <item>Discord</item>
+        <item>Spike</item>
+        <item>Princess Cadance</item>
+        <item>Sweetie Bot</item>
+        <item>FiW Misc</item>
+    </string-array>
+
+<!--****************************** Spinner Dropdown Array ******************************-->
+
+
+
+<!--****************************** Image Resource Arrays ******************************-->
+
+	<string-array name="Favorites_images">
+        <item>generic_icon,Group Icon</item>
+		<item>berry_punch,Berry Punch</item>
+		<item>bonbon,BonBon</item>
+		<item>carrot_top,Carrot Top</item>
+		<item>changeling_1,Changeling 1</item>
+		<item>changeling_2,Changeling 2</item>
+		<item>changeling_3,Changeling 3</item>
+		<item>cloudchaser,Cloudchaser</item>
+		<item>flitter,Flitter</item>
+		<item>fluer_de_lis,Fluer de Lis</item>
+		<item>lyra_heartstrings,Lyra Heartstrings</item>
+		<item>minuette,Minuette</item>
+		<item>thunderlane,Thunderlane</item>
+    </string-array>
+    
+	<string-array name="Vinyl_Scratch_images">
+        <item>vinyl_scratch_default,Vinyl Scratch</item>
+        <item>vinyl_scratch_bass_cannon,Vinyl Scratch Bass Cannon</item>
+		<item>vinyl_scratch_blue_dock,Vinyl Scratch Blue Dock</item>
+		<item>vinyl_scratch_licking_screen,Vinyl Scratch Licking Screen</item>
+		<item>vinyl_scratch_speaker,Vinyl Scratch Speaker</item>
+    </string-array>
+    
+	<string-array name="Octavia_images">
+        <item>octavia_default,Octavia</item>
+    </string-array>
+    
+	<string-array name="Maud_Pie_images">
+		<item>maud_pie_default,Maud Pie</item>
+		<item>maud_pie_laying_down,Maud Pie Laying_down</item>
+		<item>maud_pie_crunchy,Maud Pie Crunchy</item>
+    </string-array>
+    
+	<string-array name="Fluttershy_images">
+        <item>fluttershy_ditzy,Fluttershy Ditzy</item>
+        <item>fluttershy_angry,Fluttershy Angry</item>
+        <item>fluttershy_cutie_mark,Fluttershy Cutie Mark</item>
+        <item>fluttershy_explorer,Fluttershy Explorer</item>
+        <item>fluttershy_gala,Fluttershy Gala</item>
+        <item>fluttershy_goth,Fluttershy Goth</item>
+        <item>fluttershy_shy,Fluttershy Shy</item>
+        <item>fluttershy_wedding,Fluttershy Wedding</item>
+    </string-array>
+    
+	<string-array name="Pinkie_Pie_images">
+        <item>pinkie_pie_default,Pinkie Pie</item>
+        <item>pinkie_pie_cutie_mark,Cutie Mark</item>
+        <item>pinkie_pie_sad,Sad Pinkie Pie</item>
+        <item>pinkie_pie_silly,Silly Pinkie Pie</item>
+        <item>pinkie_pie_top_hat,Top Hat Pinkie Pie</item>
+        <item>pinkie_pie_umbhat,Umbrella Hat Pinkie Pie</item>
+        <item>pinkie_pie_gala,Gala Pinkie Pie</item>
+        <item>pinkie_pie_wedding,Wedding Pinkie Pie</item>
+    </string-array>
+    
+	<string-array name="Rainbow_Dash_images">
+        <item>rainbow_dash_default,Rainbow Dash</item>
+        <item>rainbow_dash_cutie_mark,Cutie Mark</item>
+        <item>rainbow_dash_sunglasses,Sunglasses Rainbow Dash</item>
+        <item>rainbow_dash_bookworm,Bookworm Rainbow Dash</item>
+        <item>rainbow_dash_spa,Spa Rainbow Dash</item>
+        <item>rainbow_dash_wing_crown,Wing Crown Rainbow Dash</item>
+        <item>rainbow_dash_gala,Gala Rainbow Dash</item>
+        <item>rainbow_dash_wedding,Wedding Rainbow Dash</item>
+    </string-array>
+    
+	<string-array name="Rarity_images">
+        <item>rarity_default,Rarity</item>
+        <item>rarity_cutie_mark,Rarity Cutie Mark</item>
+        <item>rarity_wet,Rarity Wet</item>
+        <item>rarity_glasses,Rarity Glasses</item>
+        <item>rarity_ooo,Rarity ooOoOoo</item>
+        <item>rarity_sneeze,Rarity Sneezing</item>
+        <item>rarity_gala,Rarity Gala</item>
+        <item>rarity_wedding,Rarity Wedding</item>
+    </string-array>
+    
+	<string-array name="Sweetie_Bot_images">
+        <item>sweetie_belle_default,Sweetie Belle Default</item>
+		<item>sweetie_belle_farm_hat,Sweetie Belle Farm Hat</item>
+		<item>sweetie_belle_singing_costume,Sweetie Belle Singing Costume</item>
+		<item>sweetie_belle_smooch,Sweetie Belle Smooch</item>
+		<item>sweetie_belle_vampire_costume,Sweetie Belle Vampire Costume</item>
+		<item>sweetie_belle_wedding,Sweetie Belle Wedding</item>
+    </string-array>
+    
+	<string-array name="FiW_Misc_images">
+        <item>generic_icon,Group Icon</item>
+    </string-array>
+    
+	<string-array name="Twilight_Sparkle_images">
+		<item>twilight_sparkle_default,Twilight Sparkle</item>
+		<item>twilight_sparkle_cutie_mark,Twilight Sparkle Cutie Mark</item>
+		<item>twilight_sparkle_annoyed,Twilight Sparkle Annoyed</item>
+		<item>twilight_sparkle_down,Twilight Sparkle Down</item>
+		<item>twilight_sparkle_messy_mane,Twilight Sparkle Frazzled</item>
+		<item>twilight_sparkle_time_traveler,Twilight Sparkle Time Traveler</item>
+		<item>twilight_sparkle_gala,Twilight Sparkle Gala</item>
+		<item>twilight_sparkle_wedding,Twilight Sparkle Wedding</item>
+    </string-array>
+	
+    <string-array name="Applejack_images">
+        <item>applejack_hat,Applejack With Hat</item>
+		<item>applejack_no_hat,Applejack Without Hat</item>
+        <item>applejack_cutie_mark,Applejack Cutie Mark</item>
+		<item>applejack_burp,Applejack Burping</item>
+		<item>applejack_costume,Applejack Costume</item>
+		<item>applejack_surprised,Applejack Surprised</item>
+		<item>applejack_gala,Applejack Gala</item>
+		<item>applejack__wedding,Applejack Wedding</item>
+    </string-array>
+    
+    <string-array name="Spike_images">
+        <item>spike_default,Spike</item>
+        <item>spike_baby,Baby Spike</item>
+		<item>spike_gems,Spike Gems</item>
+		<item>spike_greedy_hat,Greedy Spike in Hat</item>
+		<item>spike_mustashe,Spike Mustache</item>
+		<item>spike_gala,Spike Gala</item>
+		<item>spike_wedding,Spike Wedding</item>
+    </string-array>
+    
+    <string-array name="Discord_images">
+        <item>discord_default,Discord</item>
+		<item>discord_ooo,Discord oOooOo</item>
+		<item>discord_yawn,Discord Yawning</item>
+    </string-array>
+    
+    <string-array name="Princess_Cadance_images">
+		<item>cadance_default,Cadance</item>
+        <item>cadance_cutie_mark,Cadance Cutie Mark</item>
+		<item>cadance_wide_eyes,Cadance Wide Eyes</item>
+		<item>cadance_filly,Filly Cadance</item>
+		<item>cadance_happy,Happy Cadance</item>
+		<item>cadance_messy_mane,Messy Mane Cadance</item>
+		<item>cadance_wedding_false,False Cadance Wedding</item>
+		<item>cadance_wedding_real,Real Cadance Wedding</item>
+		
+    </string-array>
+    
+	
+	
+<!--****************************** Image Resource Arrays ******************************-->
+
+
+
+
+
+</resources>
